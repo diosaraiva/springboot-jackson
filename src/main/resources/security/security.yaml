@@ -1,0 +1,6 @@
+jwt:
+  expiration: 604800
+  secret: permasolutionsecretpermasolutionsecretpermasolutionsecretpermasolutionsecret
+  #header: token
+  #route.authentication.path: /auth
+  #route.authentication.refresh: /refresh

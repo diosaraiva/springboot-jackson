@@ -1,0 +1,11 @@
+whitelist:
+  - /auth/**
+  - /auth/test/**
+  - /demo**
+  - /test
+  - /graphql
+  - /graphiql
+  - /secure/manager**
+  - /swagger-ui.html
+  - /v3/api-docs/**
+  - /swagger-ui/**

@@ -1,0 +1,30 @@
+appUsers:
+  - username: admin
+    email: admin@training.com
+    password: admin
+    name: Admin User
+    dateOfBirth:
+    isSexMale:
+    cpf:
+    professionalName:
+    cnpj:
+    cref:
+    dateResponsibility:
+    dateUsageTerms:
+    updated:
+    jsonAttachs:
+    
+  - username: mod
+    email: moderator@training.com
+    password: mod
+    name: Moderator User
+    dateOfBirth:
+    isSexMale:
+    cpf:
+    professionalName:
+    cnpj:
+    cref:
+    dateResponsibility:
+    dateUsageTerms:
+    updated:
+    jsonAttachs:
